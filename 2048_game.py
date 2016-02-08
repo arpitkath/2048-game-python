@@ -1,3 +1,7 @@
+"""
+A 2048 game clone made by Arpit Kathuria.
+"""
+
 from tkinter import *
 from tkinter import messagebox
 from random import randint
